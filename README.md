@@ -18,6 +18,7 @@ Hogwarts Adventure is a text-based adventure game inspired by the magical world 
 
 ## Compilation:
 Navigate to the directory containing the source files and run the following command:
+cd ./src
 gcc main.c game_logic.c game_setup.c character.c -o myGame
 ./myGame
 
